@@ -13,7 +13,7 @@ namespace TrackerLibrary
         /// </summary>
         public string TournamentName { get; set; }
         /// <summary>
-        /// The cost of entering a specifi tournament.
+        /// The cost of entering a specific tournament.
         /// </summary>
         public decimal EntryFee { get; set; }
         /// <summary>
