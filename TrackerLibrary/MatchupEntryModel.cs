@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace TrackerLibrary
-{
+    {   /// <summary>
+        /// Represents one team in the entire matchup.
+        /// </summary>
     public class MatchupEntryModel
     {
         /// <summary>
